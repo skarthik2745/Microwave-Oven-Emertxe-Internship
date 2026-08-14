@@ -120,8 +120,11 @@ cstackCOMMON 70 71 COMMON 70 1
 maintext FB6 FF7 CODE FB6 0
 text1 FAC FB5 CODE FAC 0
 %locals
+dist/default/production\startup.o
+dist/default/production\startup.s
+93 0 0 CODE 0
 dist/default/production\LED_with_Switch.X.production.o
-C:\Users\Success\AppData\Local\Temp\xcAs74k.0\driver_tmp_1.s
+dist/default/production\LED_with_Switch.X.production.s
 350 7FC 0 CODE 0
 353 7FC 0 CODE 0
 359 7FC 0 CODE 0

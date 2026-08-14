@@ -11,7 +11,7 @@
 [v ___eecpymem __eecpymem `(v  1 e 1 0 ]
 "39
 [v ___memcpyee __memcpyee `(v  1 e 1 0 ]
-"4 C:\Users\Success\Documents\EMERTXE EMBEDDED SYSTEMS\LED with Switch.X\newmain.c
+"4 C:\Users\NCS\Documents\EMERTXE EMBEDDED SYSTEMS\LED with Switch.X\newmain.c
 [v _init_config init_config `(v  1 e 1 0 ]
 "15
 [v _main main `(v  1 e 1 0 ]
@@ -23,7 +23,7 @@
 [v _TRISB0 TRISB0 `VEb  1 e 0 @1072 ]
 "2987
 [v _TRISD0 TRISD0 `VEb  1 e 0 @1088 ]
-"15 C:\Users\Success\Documents\EMERTXE EMBEDDED SYSTEMS\LED with Switch.X\newmain.c
+"15 C:\Users\NCS\Documents\EMERTXE EMBEDDED SYSTEMS\LED with Switch.X\newmain.c
 [v _main main `(v  1 e 1 0 ]
 {
 "25
